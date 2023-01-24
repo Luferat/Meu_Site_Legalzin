@@ -21,7 +21,7 @@ body {
 
 body {
     background-attachment: fixed;
-    background-color: bisque;
+    background-color: white;
     /* background-image: ; */
     background-position: center;
     background-repeat: no-repeat;
@@ -39,7 +39,7 @@ body>header {
 body>header h1 {
     margin: 0;
     text-align: center;
-    -webkit-text-stroke: 1px rgb(255, 255, 255);
+    -webkit-text-stroke: 1px rgb(255, 230, 0);
     color: transparent;
 }
 
